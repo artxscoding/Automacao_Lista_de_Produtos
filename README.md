@@ -2,8 +2,6 @@
 
 Este projeto é uma automação desenvolvida em Python para cadastrar produtos em um sistema web de forma rápida e sem intervenção manual. O script foi construído passo a passo para abrir o navegador, fazer login no sistema corporativo, ler uma base de dados e registrar item por item.
 
-Este projeto foi inspirado nas aulas do Intensivão de Python da Hashtag Treinamentos.
-
 ## ⚙️ Como funciona?
 
 O script executa as seguintes etapas automaticamente:
